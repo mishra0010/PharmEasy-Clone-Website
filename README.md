@@ -5,7 +5,7 @@ Project is about the PharmEasy Website Repository designed and developed Using F
 
 Technology Used - HTML, CSS, JAVA SCRIPT, etc......
 
-The same website is deployed and visible on the given link -> 
+The same website is deployed and visible on the given link -> https://mishra0010.github.io/PharmEasy-Clone-Website/
 
 
 So I hope u guys visited the website and loved it ..
