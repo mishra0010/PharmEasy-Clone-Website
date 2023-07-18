@@ -10,3 +10,4 @@ The same website is deployed and visible on the given link -> https://mishra0010
 
 So I hope u guys visited the website and loved it ..
 Keep Learning
+![Screenshot (1590)](https://github.com/mishra0010/PharmEasy-Clone-Website/assets/88685324/141e1e8d-5372-4803-8d39-6d8b2b4b64f8)
